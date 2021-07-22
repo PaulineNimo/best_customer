@@ -1,4 +1,4 @@
-# Lendable Coding Assessment for Integrations Engineer
+# Coding Assessment
 ## Date: 23/07/2021
 
 ### Task:
